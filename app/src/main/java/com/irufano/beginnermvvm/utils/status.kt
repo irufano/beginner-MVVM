@@ -1,4 +1,7 @@
 package com.irufano.beginnermvvm.utils
 
-enum class status {
+enum class Status {
+    SUCCESS,
+    ERROR,
+    LOADING
 }
